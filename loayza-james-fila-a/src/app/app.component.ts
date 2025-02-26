@@ -9,4 +9,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'loayza-james-fila-a';
+  name = 'app'
 }
